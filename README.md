@@ -6,8 +6,9 @@ Gestão de Fazendas
 
 <!-- TOC -->
 
-- [Rebanho Bovino](#rebanho-bovino)
-    - [Funcionalidades](#funcionalidades)
+- [Gestor Rural](#gestor-rural)
+    - [Módulo Fazenda](#m%C3%B3dulo-fazenda)
+    - [Módulo Rebanho](#m%C3%B3dulo-rebanho)
         - [Cadastros](#cadastros)
         - [Relatórios](#relat%C3%B3rios)
     - [Instalação](#instala%C3%A7%C3%A3o)
